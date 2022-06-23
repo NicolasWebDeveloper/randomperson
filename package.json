@@ -1,0 +1,11 @@
+{
+  "name": "randomperson",
+  "version": "1.0.0",
+  "description": "Package to create Random Persons. DISCLAIMER: The persons are randomly generated! COnnections between real personss and the generated persons are purely coincidental!",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NicolasWebDeveloper",
+  "license": "ISC"
+}
