@@ -1,3 +1,4 @@
+"use strict"
 const fs = require("fs");
 
 let fNameData = fs.readFileSync("fname.json", {encoding: "utf8"});
